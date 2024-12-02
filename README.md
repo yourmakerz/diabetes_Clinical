@@ -36,3 +36,5 @@ Leaflet: For rendering interactive maps
 Dplyr: For data manipulation
 Readr: For reading datasets
 
+## Final presentation 
+https://www.canva.com/design/DAGW-nKlyXg/lf0lGxtlxlQTq-4RRX62ug/edit
