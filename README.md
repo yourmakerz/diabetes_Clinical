@@ -39,3 +39,6 @@ Readr: For reading datasets
 
 ## Final presentation 
 https://www.canva.com/design/DAGW-nKlyXg/lf0lGxtlxlQTq-4RRX62ug/edit
+
+## Data Source
+https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset
